@@ -1,0 +1,11 @@
+shortcut for div and class creation
+   div.classname and enter
+
+flex-wrap: wrap;
+    provides specific width but height can be expanded  
+
+ data types
+ 1.var
+ 2.let=function declared in local so that it can be changed locally
+ and fun declated in global changed in globally
+ 3.const  =can't be changed  
